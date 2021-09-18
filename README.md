@@ -1,2 +1,2 @@
 # CPP
-C++ Projects
+My Projects in the C++ Programming Language.
