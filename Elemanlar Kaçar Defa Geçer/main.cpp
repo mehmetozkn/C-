@@ -2,7 +2,7 @@
 #include <vector>
 
 using namespace std;
-
+// Nums vektöründeki her bir elemanın kaç adet bulunduğunu ekrana yazan program.
 int main()
 {
 
