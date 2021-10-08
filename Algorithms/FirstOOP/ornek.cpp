@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "tarih.h" // Arayüz koda dahil ediliyor.
+#include "tarih.cpp" // Arayüz koda dahil ediliyor.
 
 int main()
 {
